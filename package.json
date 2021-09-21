@@ -1,0 +1,25 @@
+{
+  "name": "employee-database",
+  "version": "1.0.0",
+  "description": "this will be a emplyee database made witl SQl it will run in the terminal and pull data from its connected database it will display the employes their roles position and salary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaachrr4/employee-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaachrr4/employee-database/issues"
+  },
+  "homepage": "https://github.com/isaachrr4/employee-database#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.5",
+    "mysql2": "^2.3.0"
+  }
+}
